@@ -15,7 +15,7 @@ Instantiate the class and link it with you camera
 var camControls = new FirstPersonMovement(camera,"AZERTY");
 ```
 
-Launch Update in yoru render loop
+Launch Update in your render loop
 
 ```javascript
 var clock = new THREE.Clock();
